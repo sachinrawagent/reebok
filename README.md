@@ -50,6 +50,6 @@ A clone of an e-commerce website where you can buy sports related things like sp
 ## Contributers
 ​
 - Suraj Devree <>
-- Shakti Dev < >
+- Shakti Dev @DevShakti78
 - Durga Bhavani V < >
-- Pryanka Dubey < >
+- Pryanka Dubey <a href="<https://github.com/Priyankadubey190">@Priyankadubey190</a>
