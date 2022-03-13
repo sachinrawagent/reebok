@@ -46,10 +46,10 @@ A clone of an e-commerce website where you can buy sports related things like sp
 ## Payment Page :
 
 <img src="https://i.imgur.com/73fnURC.png">
-​
+
 ## Contributers
-​
+
 - Suraj Devree <>
-- Shakti Dev @DevShakti78
+- Shakti Dev <a href="https://github.com/DevShakti78">@DevShakti78</a>
 - Durga Bhavani V < >
-- Pryanka Dubey <a href="<https://github.com/Priyankadubey190">@Priyankadubey190</a>
+- Pryanka Dubey <a href="https://github.com/Priyankadubey190">@Priyankadubey190</a>
