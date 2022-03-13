@@ -13,43 +13,43 @@ A clone of an e-commerce website where you can buy sports related things like sp
 
 ## Landing Page :
 
-<img src="https://imgur.com/VRi6EBF">
-<img src="https://imgur.com/dj1xpXZ">
-<img src="https://imgur.com/WzjQZrg">
-<img src="https://imgur.com/UIn6vCo">
+<img src="https://i.imgur.com/VRi6EBF.png">
+<img src="https://i.imgur.com/dj1xpXZ.png">
+<img src="https://i.imgur.com/WzjQZrg.png">
+<img src="https://i.imgur.com/UIn6vCo.png">
 
 ## Sign In and Sign Up Page :
 
-<img src="https://imgur.com/bR49I8r">
+<img src="https://i.imgur.com/bR49I8r.png">
 
 ## Men's Page :
 
-<img src="https://imgur.com/70aK4IQ">
-<img src="https://imgur.com/V1lPjsk">
+<img src="https://i.imgur.com/70aK4IQ.png">
+<img src="https://i.imgur.com/V1lPjsk.png">
 
 ## Women's Page :
 
-<img src="https://imgur.com/93DQhYl">
-<img src="https://imgur.com/7jmZkhK">
+<img src="https://i.imgur.com/93DQhYl.png">
+<img src="https://i.imgur.com/7jmZkhK.png">
 
 
 ## Cart Page :
 
-<img src="https://imgur.com/cyLtMh9">
+<img src="https://i.imgur.com/cyLtMh9.png">
 
 
 ## Address Page :
 
-<img src="https://imgur.com/yMRMzdJ">
+<img src="https://i.imgur.com/yMRMzdJ.png">
 
 
 ## Payment Page :
 
-<img src="https://imgur.com/73fnURC">
+<img src="https://i.imgur.com/73fnURC.png">
 ​
 ## Contributers
 ​
-- Mohd Tausif <mohdtausif411@gmail.com>
-- Ayush Singhal <1998ayushsinghal@gmail.com>
-- Amit Kishore  <kishore.amit23@gmail.com>
-- Prashanth Vengala <vengalaprashanth24@gmail.com>
+- Suraj Devree <>
+- Shakti Dev < >
+- Durga Bhavani V < >
+- Pryanka Dubey < >
