@@ -49,7 +49,7 @@ A clone of an e-commerce website where you can buy sports related things like sp
 
 ## Contributers
 
-- Suraj Devree <>
+- Suraj Devree <a href="https://github.com/Surajdevere09">@Surajdevere09</a>
 - Shakti Dev <a href="https://github.com/DevShakti78">@DevShakti78</a>
-- Durga Bhavani V < >
+- Durga Bhavani V <a href="https://github.com/db648">@db648</a>
 - Pryanka Dubey <a href="https://github.com/Priyankadubey190">@Priyankadubey190</a>
